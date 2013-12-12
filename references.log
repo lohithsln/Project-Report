@@ -1,0 +1,22 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdftex 2013.11.20)  2 DEC 2013 12:22
+entering extended mode
+**F:/masters*project/report*n*doc/references.bib
+("F:/masters project/report n doc/references.bib"
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.1 @Misc{ chc_
+               atlanta,
+? 
+! Emergency stop.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.1 @Misc{ chc_
+               atlanta,
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
